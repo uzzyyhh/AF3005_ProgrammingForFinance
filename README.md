@@ -63,3 +63,20 @@ The system includes:
 Clone this repository:  
 ```bash
 git clone https://github.com/your-username/AF3005_ProgrammingForFinance.git
+
+
+📂 Repository Structure
+📁 Assignments/ – Contains the Jupyter Notebook (.ipynb) with full implementation.
+📁 Datasets/ – Sample stock prices and exchange rate data for testing.
+📁 Docs/ – Notes and breakdown of financial models used in the assignment.
+
+🛠 Technologies Used
+Python 🐍
+IPyWidgets 🎛️
+Jupyter Notebook / Google Colab 📒
+
+
+📜 License
+This project is for educational purposes only and follows the FAST-NUCES assignment policies.
+
+💡 Feel free to explore, use, or improve this project! 🚀
