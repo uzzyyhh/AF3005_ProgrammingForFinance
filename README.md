@@ -59,7 +59,7 @@ jupyter notebook
 📅 Submission Details
 File Format: Jupyter Notebook (.ipynb).
 Naming Convention: [Your_regno]_AF3005_Assignment1.ipynb.
-Submission: Google Classroom & GitHub Repository.
+Submission: Google Classroom & GitHub Repository. 
 🛠 Technologies Used
 Python 🐍
 IPyWidgets 🎛️
